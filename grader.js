@@ -1,6 +1,6 @@
-#!/usr/bin/env node
+#!/Usr/Bin/Env Node
 /*
-Automatically grade files for the presence of specified HTML tags/attributes.
+Automatically Grade Files For The Presence Of Specified HTML tags/attributes.
 Uses commander.js and cheerio. Teaches command line application development
 and basic DOM parsing.
 
